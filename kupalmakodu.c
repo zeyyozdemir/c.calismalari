@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// klavyeden girilen sayının küpünü hesaplatan kod
+
 int main() {
 	
 	int sayi,kup=1,i;
