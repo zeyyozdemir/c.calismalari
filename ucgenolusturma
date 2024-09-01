@@ -1,3 +1,6 @@
+
+// klavyeden taban sayısı girilen ikizkenar dik üçgeni yıldız(*) sembolü ile çizdiren program kodu: 
+
 int main() {
 	
 	int i,j,taban;
