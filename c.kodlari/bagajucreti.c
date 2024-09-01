@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Bir havayolu şirketi yolcuları için bagaj sınırlaması uygulamaktadır. Her yolcunun el için 8, normal için 15kg bagaj hakkı
+bulunmaktadır. Eğer yolcular el haklarını geçerse kilogram başına 4 TL, normal bagaj haklarını geçerlerse kilogram başına 5TL 
+ödeme yapmak durumundadır.
+Buna göre klavyeden el ve normal bagajlarının kg olarak ağırlığını giren yolcunun ödemesi gereken ücreti hesaplayan program kodu: */ 
+
+
 int main()
 {
 
