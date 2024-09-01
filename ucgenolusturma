@@ -1,0 +1,17 @@
+int main() {
+	
+	int i,j,taban;
+	
+	printf("Ucgenin taban uzunlugunu girin :");
+	scanf("%d",&taban);
+	
+	for (i=1;i<=taban;i++){
+		for (j=1;j<=i;j++){
+			printf("*");
+			
+		}
+		printf("\n");
+	}
+	
+	return 0;
+}
