@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Bir bakteri turu her saat basi kendini ikiye bolerek cogaltmaktadir. Bu labaratuarda 24 saat sonra kac bakteri olur? 
+
+int main() {
+	
+	int bakteri=1,saat=24,i;
+	
+	for(i=1;i<=saat ; i++)
+	{
+		bakteri=bakteri*2;
+	}
+	
+	printf("bakteri sayisi: %d",bakteri);
+	
+
+	
+	
+	return 0;
+}
