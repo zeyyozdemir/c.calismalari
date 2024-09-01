@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Klavyeden girilen üç basamaklı bir sayının rakamlarını bulan program kodu: */
+
 int main()
 {
 
